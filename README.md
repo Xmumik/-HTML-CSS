@@ -1,1 +1,1 @@
-MitrofanovSV-QA.github.io
+MitrofanovSV-QA
